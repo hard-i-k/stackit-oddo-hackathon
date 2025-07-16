@@ -1,4 +1,4 @@
-# StackIt - Q&A Platform Backend
+# StackIt - Q&A Platform
 
 A modern Q&A platform backend built with Express.js, Prisma ORM, PostgreSQL, and integrated with Google's Gemini AI for content enhancement.
 
